@@ -1,0 +1,15 @@
+/Users/espenraugstad/Documents/Code/vowels/C#/bin/Debug/net7.0/C#
+/Users/espenraugstad/Documents/Code/vowels/C#/bin/Debug/net7.0/C#.deps.json
+/Users/espenraugstad/Documents/Code/vowels/C#/bin/Debug/net7.0/C#.runtimeconfig.json
+/Users/espenraugstad/Documents/Code/vowels/C#/bin/Debug/net7.0/C#.dll
+/Users/espenraugstad/Documents/Code/vowels/C#/bin/Debug/net7.0/C#.pdb
+/Users/espenraugstad/Documents/Code/vowels/C#/obj/Debug/net7.0/C#.csproj.AssemblyReference.cache
+/Users/espenraugstad/Documents/Code/vowels/C#/obj/Debug/net7.0/C#.GeneratedMSBuildEditorConfig.editorconfig
+/Users/espenraugstad/Documents/Code/vowels/C#/obj/Debug/net7.0/C#.AssemblyInfoInputs.cache
+/Users/espenraugstad/Documents/Code/vowels/C#/obj/Debug/net7.0/C#.AssemblyInfo.cs
+/Users/espenraugstad/Documents/Code/vowels/C#/obj/Debug/net7.0/C#.csproj.CoreCompileInputs.cache
+/Users/espenraugstad/Documents/Code/vowels/C#/obj/Debug/net7.0/C#.dll
+/Users/espenraugstad/Documents/Code/vowels/C#/obj/Debug/net7.0/refint/C#.dll
+/Users/espenraugstad/Documents/Code/vowels/C#/obj/Debug/net7.0/C#.pdb
+/Users/espenraugstad/Documents/Code/vowels/C#/obj/Debug/net7.0/C#.genruntimeconfig.cache
+/Users/espenraugstad/Documents/Code/vowels/C#/obj/Debug/net7.0/ref/C#.dll
